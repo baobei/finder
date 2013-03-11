@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://finderL.github.com/sitemap.xml 
+Sitemap: http://baobei.github.com/miandou/sitemap.xml 

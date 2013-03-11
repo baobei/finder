@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://finderL.github.com/atom.xml" rel="self"/>
-  <link href="http://finderL.github.com/"/>
-  <updated>2013-03-11T22:46:36+08:00</updated>
-  <id>http://finderL.github.com/</id>
+  <link href="http://baobei.github.com/miandou/atom.xml" rel="self"/>
+  <link href="http://baobei.github.com/miandou/"/>
+  <updated>2013-03-11T23:13:17+08:00</updated>
+  <id>http://baobei.github.com/miandou/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
